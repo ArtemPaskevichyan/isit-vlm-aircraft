@@ -1,0 +1,51 @@
+id,model_key,true_label,pred_label,confidence,reason,status,latency_s,tokens_in,tokens_out,model,provider,ts
+C01,gemini_flash,civilian,civilian,0.99,Пассажирский самолёт авиакомпании United Airlines.,ok,1.72,1229.0,39.0,gemini-3.6-flash,google,2026-11-23T00:08:48+00:00
+C02,gemini_flash,civilian,civilian,1.0,Пассажирский самолёт авиакомпании United Airlines.,ok,2.34,1249.0,38.0,gemini-3.6-flash,google,2026-11-23T00:09:07+00:00
+C03,gemini_flash,civilian,civilian,0.99,Легкомоторный частный самолёт Cessna с гражданским регистрационным номером VH-YOP.,ok,2.51,1249.0,43.0,gemini-3.6-flash,google,2026-11-23T00:09:31+00:00
+C04,gemini_flash,civilian,civilian,0.99,"Это пожарный самолёт-амфибия (Canadair/Conair), используемый для тушения лесных пожаров.",ok,12.87,1229.0,54.0,gemini-3.6-flash,google,2026-11-23T00:05:05+00:00
+C05,gemini_flash,civilian,civilian,0.98,Бериев Бе-200ЧС — гражданский противопожарный и поисково-спасательный самолёт МЧС.,ok,2.85,1249.0,56.0,gemini-3.6-flash,google,2026-11-23T00:12:42+00:00
+C06,gemini_flash,civilian,military,0.99,Самолет Blue Angels ВМС США (U.S. Navy) является военным учебно-тренировочным самолетом.,ok,5.94,1229.0,54.0,gemini-3.6-flash,google,2026-11-23T14:14:55+00:00
+C07,gemini_flash,civilian,civilian,0.99,Самолет имеет гражданскую красную окраску с логотипом бренда (ORIS) и именем 'Русалка'.,ok,24.47,1256.0,51.0,gemini-3.6-flash,google,2026-11-23T14:17:27+00:00
+C08,gemini_flash,civilian,civilian,0.95,Имеет гражданский регистрационный номер YL-RAM на крыле.,ok,3.0,1213.0,42.0,gemini-3.6-flash,google,2026-11-23T14:47:32+00:00
+C09,gemini_flash,civilian,civilian,0.98,Яркая коммерческая окраска с надписью Heyns Helicopters указывает на гражданского оператора.,ok,2.57,1215.0,48.0,gemini-3.6-flash,google,2026-11-23T14:47:41+00:00
+C10,gemini_flash,civilian,civilian,0.99,Пожарный самолёт компании Coulson Aviation относится к гражданской специальной авиации.,ok,1.91,1213.0,40.0,gemini-3.6-flash,google,2026-11-23T03:29:20+00:00
+C11,gemini_flash,civilian,civilian,0.99,Самолет Ил-76 принадлежит гражданской грузовой авиакомпании Volga-Dnepr.,ok,2.04,1229.0,46.0,gemini-3.6-flash,google,2026-11-23T14:47:50+00:00
+C12,gemini_flash,civilian,civilian,0.98,"Гражданская раскраска Beechcraft King Air, с регистрацией и логотипом частного/делового самолёта.",ok,2.78,1241.0,55.0,gemini-3.6-flash,google,2026-11-23T14:48:00+00:00
+M01,gemini_flash,military,military,1.0,Истребитель F-16 Fighting Falcon с камуфляжной окраской и внешним вооружением.,ok,1.96,1229.0,48.0,gemini-3.6-flash,google,2026-11-23T00:04:29+00:00
+M02,gemini_flash,military,military,1.0,Истребитель Су-27/30 ВВС России с опознавательными знаками и узлами подвески вооружения.,ok,3.31,1229.0,53.0,gemini-3.6-flash,google,2026-11-23T00:05:23+00:00
+M03,gemini_flash,military,military,1.0,"На фото ударный вертолёт AH-64 Apache, предназначенный для боевых задач.",ok,16.44,1229.0,44.0,gemini-3.6-flash,google,2026-11-23T00:05:49+00:00
+M04,gemini_flash,military,military,0.99,"Самолет имеет надпись NAVY, опознавательные знаки ВМС США и военную окраску.",ok,2.57,1229.0,49.0,gemini-3.6-flash,google,2026-11-23T00:04:43+00:00
+M05,gemini_flash,military,military,0.98,Самолет окрашен в серый военный камуфляж и является заправщиком KC-46 Pegasus.,ok,3.3,1229.0,51.0,gemini-3.6-flash,google,2026-11-23T00:06:08+00:00
+M06,gemini_flash,military,military,0.95,Узкое крыло с 4 узлами под пилоны/двигатели и хвостовое штанговое устройство указывают на KC-135/E-6.,ok,4.68,1229.0,60.0,gemini-3.6-flash,google,2026-11-23T00:06:25+00:00
+M07,gemini_flash,military,military,0.99,Самолет ДРЛО E-3 Sentry ВВС НАТО (военное назначение).,ok,1.93,1256.0,45.0,gemini-3.6-flash,google,2026-11-23T00:06:39+00:00
+M08,gemini_flash,military,military,1.0,Это военно-транспортный самолёт C-17 Globemaster III ВВС США.,ok,7.03,1229.0,44.0,gemini-3.6-flash,google,2026-11-23T00:06:55+00:00
+M09,gemini_flash,military,military,0.98,Ильюшин Ил-76МД 223-го лётного отряда Минобороны РФ с характерным остеклением штурманской кабины.,ok,7.66,1249.0,65.0,gemini-3.6-flash,google,2026-11-23T00:07:16+00:00
+M10,gemini_flash,military,military,0.95,"На киле флаг РФ, борт принадлежит ВКС России (224-й лётный отряд).",ok,9.3,1229.0,51.0,gemini-3.6-flash,google,2026-11-23T00:07:39+00:00
+M11,gemini_flash,military,military,0.99,"Это Boeing VC-25 (Air Force One), бортовой номер 29000 ВВС США.",ok,6.75,1256.0,49.0,gemini-3.6-flash,google,2026-11-23T00:07:58+00:00
+M12,gemini_flash,military,military,0.98,"Устаревшая военная окраска, опознавательные знаки ВВС Камбоджи и пилоны для подвески вооружения.",ok,10.63,1229.0,55.0,gemini-3.6-flash,google,2026-11-23T00:08:21+00:00
+M13,gemini_flash,military,military,0.99,Изображён боевой беспилотный летательный аппарат (MQ-9 Reaper) с подвешенным вооружением.,ok,5.65,1241.0,51.0,gemini-3.6-flash,google,2026-11-23T00:08:37+00:00
+C01,gemini_lite,civilian,civilian,1.0,Самолёт принадлежит гражданской авиакомпании United Airlines.,ok,4.49,1229.0,37.0,gemini-3.5-flash-lite,google,2026-11-23T00:08:57+00:00
+C02,gemini_lite,civilian,civilian,1.0,Это гражданский пассажирский авиалайнер компании United Airlines.,ok,5.19,1249.0,33.0,gemini-3.5-flash-lite,google,2026-11-23T00:09:20+00:00
+C03,gemini_lite,civilian,civilian,0.99,Это лёгкий одномоторный гражданский самолёт Cessna с регистрационным знаком VH-YOP.,ok,3.32,1249.0,48.0,gemini-3.5-flash-lite,google,2026-11-23T00:09:38+00:00
+C04,gemini_lite,civilian,civilian,0.99,"Это пожарный гидроплан Canadair CL-215, используемый для тушения лесных пожаров.",ok,3.26,1229.0,50.0,gemini-3.5-flash-lite,google,2026-11-23T00:05:12+00:00
+C05,gemini_lite,civilian,civilian,0.99,"Это пожарный амфибийный самолет Бе-200ЧС, относящийся к гражданской и спасательной авиации.",ok,2.48,1249.0,56.0,gemini-3.5-flash-lite,google,2026-11-23T00:12:52+00:00
+C06,gemini_lite,civilian,military,1.0,Это самолет пилотажной группы ВМС США 'Синие Ангелы'.,ok,5.25,1229.0,43.0,gemini-3.5-flash-lite,google,2026-11-23T00:19:16+00:00
+C07,gemini_lite,civilian,civilian,0.99,"Это гражданский биплан Ан-2, на фюзеляже видна рекламная надпись ORIS.",ok,2.46,1256.0,46.0,gemini-3.5-flash-lite,google,2026-11-23T00:25:37+00:00
+C08,gemini_lite,civilian,military,0.95,"Самолёт визуально похож на учебный Як-52 военно-воздушных сил, используемый для начальной подготовки.",ok,1.37,1213.0,48.0,gemini-3.5-flash-lite,google,2026-11-23T00:31:56+00:00
+C09,gemini_lite,civilian,civilian,0.95,Яркая гражданская раскраска и надпись Heyns Helicopters указывают на коммерческое использование.,ok,2.21,1215.0,48.0,gemini-3.5-flash-lite,google,2026-11-23T00:38:21+00:00
+C10,gemini_lite,civilian,civilian,0.99,"Это пожарный самолет компании Coulson Aviation, модифицированный Lockheed C-130.",ok,1.59,1213.0,46.0,gemini-3.5-flash-lite,google,2026-11-23T03:34:12+00:00
+C11,gemini_lite,civilian,civilian,0.99,Самолёт принадлежит гражданской грузовой авиакомпании Volga-Dnepr.,ok,3.49,1229.0,42.0,gemini-3.5-flash-lite,google,2026-11-23T14:27:33+00:00
+C12,gemini_lite,civilian,civilian,0.99,Двухмоторный турбовинтовой самолет деловой или частной авиации гражданского назначения.,ok,1.85,1241.0,44.0,gemini-3.5-flash-lite,google,2026-11-23T14:27:42+00:00
+M01,gemini_lite,military,military,1.0,Истребитель F-16 вооружен ракетами и подвесными топливными баками.,ok,3.29,1229.0,47.0,gemini-3.5-flash-lite,google,2026-11-23T00:04:36+00:00
+M02,gemini_lite,military,military,1.0,Это российский многоцелевой истребитель Су-33 корабельного базирования с военными опознавательными знаками.,ok,1.45,1229.0,53.0,gemini-3.5-flash-lite,google,2026-11-23T00:05:28+00:00
+M03,gemini_lite,military,military,1.0,"Изображен ударный вертолет AH-64 Apache, состоящий на вооружении военной авиации.",ok,3.74,1229.0,43.0,gemini-3.5-flash-lite,google,2026-11-23T00:06:01+00:00
+M04,gemini_lite,military,military,1.0,Самолёт имеет опознавательные знаки ВМС США (NAVY) и бортовой номер.,ok,1.67,1229.0,47.0,gemini-3.5-flash-lite,google,2026-11-23T00:04:48+00:00
+M05,gemini_lite,military,military,0.99,"Самолёт-заправщик KC-46 Pegasus ВВС США, военная модификация гражданского Boeing 767.",ok,4.5,1229.0,53.0,gemini-3.5-flash-lite,google,2026-11-23T00:06:17+00:00
+M06,gemini_lite,military,military,0.99,На фото изображен стратегический бомбардировщик Boeing B-52 Stratofortress.,ok,3.46,1229.0,41.0,gemini-3.5-flash-lite,google,2026-11-23T00:06:33+00:00
+M07,gemini_lite,military,military,1.0,Это самолет дальнего радиолокационного обнаружения НАТО Boeing E-3 Sentry.,ok,1.72,1256.0,44.0,gemini-3.5-flash-lite,google,2026-11-23T00:06:44+00:00
+M08,gemini_lite,military,military,1.0,"На фюзеляже видна надпись U.S. AIR FORCE, это военно-транспортный самолет C-17.",ok,5.11,1229.0,54.0,gemini-3.5-flash-lite,google,2026-11-23T00:07:05+00:00
+M09,gemini_lite,military,military,0.99,Это военно-транспортный самолет Ил-76МД военно-воздушных сил.,ok,5.0,1249.0,47.0,gemini-3.5-flash-lite,google,2026-11-23T00:07:25+00:00
+M10,gemini_lite,military,military,0.95,Самолет Ан-124 состоит на вооружении военно-транспортной авиации.,ok,4.98,1229.0,39.0,gemini-3.5-flash-lite,google,2026-11-23T00:07:48+00:00
+M11,gemini_lite,military,military,0.99,"Это самолет VC-25 (Air Force One), состоящий на вооружении ВВС США.",ok,4.18,1256.0,46.0,gemini-3.5-flash-lite,google,2026-11-23T00:08:07+00:00
+M12,gemini_lite,military,military,0.99,Это военно-транспортный вертолет Ми-8 советского производства с камуфляжной окраской.,ok,1.89,1229.0,49.0,gemini-3.5-flash-lite,google,2026-11-23T00:08:27+00:00
+M13,gemini_lite,military,military,1.0,На изображении представлен ударный беспилотный летательный аппарат MQ-1 Predator или MQ-9 Reaper.,ok,1.62,1241.0,48.0,gemini-3.5-flash-lite,google,2026-11-23T00:08:42+00:00

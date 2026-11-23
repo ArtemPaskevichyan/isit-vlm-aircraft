@@ -1,0 +1,28 @@
+[
+  {"id": "M01", "label": "military", "subject": "F-16C Fighting Falcon", "trap": "E", "why_hard": "Эталон: однозначно военный истребитель", "query": "F-16 Fighting Falcon in flight"},
+  {"id": "M02", "label": "military", "subject": "Sukhoi Su-27", "trap": "E", "why_hard": "Эталон: тяжёлый истребитель, узнаваемый силуэт", "query": "Sukhoi Su-27 in flight"},
+  {"id": "M03", "label": "military", "subject": "AH-64 Apache", "trap": "E", "why_hard": "Эталон: боевой вертолёт", "query": "AH-64 Apache in flight"},
+  {"id": "M04", "label": "military", "subject": "P-8A Poseidon", "trap": "T1", "why_hard": "Платформа Boeing 737, гражданский силуэт, военная ливрия и пилоны", "query": "P-8 Poseidon aircraft"},
+  {"id": "M05", "label": "military", "subject": "KC-46A Pegasus", "trap": "T1", "why_hard": "Платформа Boeing 767, выглядит как широкофюзеляжный лайнер", "query": "KC-46 Pegasus"},
+  {"id": "M06", "label": "military", "subject": "KC-135R Stratotanker", "trap": "T1", "why_hard": "Платформа Boeing 707, легко принять за старый пассажирский самолёт", "query": "KC-135 Stratotanker"},
+  {"id": "M07", "label": "military", "subject": "E-3 Sentry AWACS", "trap": "T1", "why_hard": "Boeing 707 с диском радара; без диска — просто лайнер", "query": "E-3 Sentry AWACS"},
+  {"id": "M08", "label": "military", "subject": "C-17 Globemaster III", "trap": "T2", "why_hard": "Тяжёлый военный транспорт, силуэт близок к широкофюзеляжному лайнеру", "query": "C-17 Globemaster III takeoff"},
+  {"id": "M09", "label": "military", "subject": "Il-76MD (Russian Air Force)", "trap": "T2", "why_hard": "Военно-транспортный, похож на гражданский грузовой Ил-76", "query": "Il-76 Russian Air Force"},
+  {"id": "M10", "label": "military", "subject": "An-124 (Russian Air Force)", "trap": "T2", "why_hard": "Огромный транспортник; гражданские An-124 летают в похожей ливрее", "query": "An-124 Russian Air Force"},
+  {"id": "M11", "label": "military", "subject": "VC-25A Air Force One", "trap": "T3", "why_hard": "Boeing 747 с правительственной ливреей: класс решает принадлежность, а не форма", "query": "VC-25 Air Force One"},
+  {"id": "M12", "label": "military", "subject": "Mi-8MT military", "trap": "T5", "why_hard": "Тот же тип, что и гражданский Ми-8; различия только в ливрее и оснащении", "query": "Mi-8 military helicopter"},
+  {"id": "M13", "label": "military", "subject": "MQ-9 Reaper", "trap": "T6", "why_hard": "БПЛА: необычная форма, пропеллер, отсутствие кабины", "query": "MQ-9 Reaper drone"},
+
+  {"id": "C01", "label": "civilian", "subject": "Airbus A320", "trap": "E", "why_hard": "Эталон: магистральный лайнер в ливрее авиакомпании", "query": "Airbus A320 landing airline"},
+  {"id": "C02", "label": "civilian", "subject": "Boeing 737-800", "trap": "E", "why_hard": "Эталон: узкофюзеляжный лайнер", "query": "Boeing 737-800 landing airline"},
+  {"id": "C03", "label": "civilian", "subject": "Cessna 172", "trap": "E", "why_hard": "Эталон: лёгкий гражданский самолёт", "query": "Cessna 172 flying"},
+  {"id": "C04", "label": "civilian", "subject": "Canadair CL-415", "trap": "T4", "why_hard": "Пожарный amphibian: выглядит военным, но гражданская служба", "query": "Canadair CL-415 firefighting"},
+  {"id": "C05", "label": "civilian", "subject": "Beriev Be-200", "trap": "T4", "why_hard": "Пожарный/спасательный самолёт, похож на военный гидроплан", "query": "Beriev Be-200"},
+  {"id": "C06", "label": "civilian", "subject": "Aero L-39 Albatros (civil)", "trap": "T7", "why_hard": "Военный учебный самолёт в гражданской регистрации и камуфляже", "query": "Aero L-39 Albatros airshow"},
+  {"id": "C07", "label": "civilian", "subject": "An-2 (civil)", "trap": "T7", "why_hard": "Биплан; встречается и в военной, и в гражданской службе", "query": "Antonov An-2 aircraft"},
+  {"id": "C08", "label": "civilian", "subject": "Yak-52 (civil)", "trap": "T7", "why_hard": "Учебно-тренировочный в камуфляже, часто частный борт", "query": "Yak-52 aircraft"},
+  {"id": "C09", "label": "civilian", "subject": "Mi-8 (civil)", "trap": "T5", "why_hard": "Тот же тип, что и военный Ми-8; гражданская ливрея", "query": "Heyns Helicopters Mil Mi-8"},
+  {"id": "C10", "label": "civilian", "subject": "C-130 firefighting (civil operator)", "trap": "T4", "why_hard": "Военная платформа C-130 у гражданского пожарного оператора", "query": "Coulson C-130 air tanker"},
+  {"id": "C11", "label": "civilian", "subject": "Il-76TD (civil cargo)", "trap": "T5", "why_hard": "Тот же тип, что и военный Ил-76; гражданская грузовая ливрея", "query": "Il-76TD Volga-Dnepr"},
+  {"id": "C12", "label": "civilian", "subject": "Beech King Air 350 (civil)", "trap": "T8", "why_hard": "Гражданский турбопроп, массово используемый военными как C-12", "query": "Beechcraft King Air 350"}
+]

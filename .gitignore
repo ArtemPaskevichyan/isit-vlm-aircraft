@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+tools/previews/
+tools/alt_sheet.jpg
+tools/m03_sheet.jpg
+tools/contact_sheet.jpg
+.idea/
